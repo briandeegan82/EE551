@@ -5,5 +5,5 @@ pillow
 scipy
 colorspacious
 typing
-sklearn
+scikit-learn
 opencv-python-headless
