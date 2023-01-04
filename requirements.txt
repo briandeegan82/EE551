@@ -1,13 +1,12 @@
-  numpy
-  scikit-image
-  matplotlib
-  PIL
-  scipy
-  timeit
-  math
-  colorspacious
-  json
-  typing
-  sklearn
-  opencv-python-headless
-  pillow
+numpy
+scikit-image
+matplotlib
+pillow
+scipy
+timeit
+math
+colorspacious
+json
+typing
+sklearn
+opencv-python-headless
