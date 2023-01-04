@@ -1,0 +1,13 @@
+  numpy
+  skimage
+  matplotlib
+  PIL
+  scipy
+  timeit
+  math
+  colorspacious
+  json
+  typing
+  sklearn
+  opencv-python-headless
+  pillow
