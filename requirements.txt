@@ -7,3 +7,4 @@ colorspacious
 typing
 scikit-learn
 opencv-python-headless
+PyQt4
