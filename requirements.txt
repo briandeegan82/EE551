@@ -1,5 +1,4 @@
 qtconsole
-PyQt4
 PyQt5
 numpy
 scikit-image
