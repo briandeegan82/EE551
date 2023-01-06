@@ -1,5 +1,3 @@
-qtconsole
-PyQt5
 numpy
 scikit-image
 matplotlib
